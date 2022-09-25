@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "rss": "<LINK TO RSS FEED>",
   "servers": [
     {
@@ -7,12 +7,23 @@
       "name": "Zumbasmp (Minecraft 1.19)",
       "description": "Zumbasmp Running Minecraft 1.19",
       "icon": null,
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "185.135.158.216:25565",
-      "minecraftVersion": "1.19",
+      "minecraftVersion": "1.19.2",
       "mainServer": true,
       "autoconnect": false,
-      "modules": []
+      "modules": [
+                {
+                    "id": "mezz:jei:1.11.2-4.5.0.290",
+                    "name": "JustEnoughItems",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1026036,
+                        "MD5": "8d89a587893263eb21ef3e5e106b3045",
+                        "url": "https://mediafiles.forgecdn.net/files/3969/39/jei-1.19.2-forge-11.3.0.262.jar"
+                    }
+                }
+      ]
     }
   ]
 }

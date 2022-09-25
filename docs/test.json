@@ -7,7 +7,7 @@
       "name": "Zumbasmp (Minecraft 1.19)",
       "description": "Zumbasmp Running Minecraft 1.19",
       "icon": null,
-      "version": "1.0.0",
+      "version": "1.0.2",
       "address": "185.135.158.216:25565",
       "minecraftVersion": "1.19",
       "mainServer": true,

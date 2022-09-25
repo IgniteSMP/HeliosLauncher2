@@ -1,0 +1,18 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "servers": [
+    {
+      "id": "1-1.12.2",
+      "name": "1 (Minecraft 1.19)",
+      "description": "1 Running Minecraft 1.19",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "play.zumbasmp.live:25565",
+      "minecraftVersion": "1.19",
+      "mainServer": true,
+      "autoconnect": false,
+      "modules": []
+    }
+  ]
+}

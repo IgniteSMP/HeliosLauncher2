@@ -8,7 +8,7 @@
       "description": "1 Running Minecraft 1.19",
       "icon": null,
       "version": "1.0.0",
-      "address": "play.zumbasmp.live:25565",
+      "address": "play.zumbasmp.live",
       "minecraftVersion": "1.19",
       "mainServer": true,
       "autoconnect": false,
